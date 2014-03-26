@@ -47,7 +47,6 @@
     }
 
     body#maintop {
-        // background-image: url('https://www.gakunin.jp/docs/files/bg2.jpg');
         background-repeat: repeat-x;
         background-position: 0px 110px;
     }
@@ -59,7 +58,7 @@
 
     div#maincenter{
         position: relative;
-        top: 85px;
+        top: 15px;
         margin: 0 auto;
         text-align: center;
     }
@@ -69,17 +68,17 @@
     }
 
     strong#logintitle {
-        font-size: 11px;
-        color: #FFFFFF;
+        font-size: 18px;
+        color: #000000;
     }
 
     strong#loginname {
-        font-size: 12px;
-        color: #FFFFFF;
+        font-size: 16px;
+        color: #000000;
     }
 
     #main {
-        margin: 90px auto;
+        margin: 20px auto;
         color: #333333;
     }
 
@@ -137,10 +136,6 @@
     </style>
   </head>
   <body id="maintop">
-
-    <!-- <img id="logoA" src="https://www.gakunin.jp/docs/files/GakuNin_logo_yoko-small.png"> -->
-    <br>
-
     <div id="maincenter">
       <strong id="logintitle">属性受信の確認ページ</strong><br>
 <?php
