@@ -8,3 +8,7 @@
 * 学認関連のURLを削除しています。
     * 学認のWebサイトそのものが落ちていることは自動テストとは無意味なので……
     * ロゴは本来入れるべきなんですけど。
+
+# LICENSE
+
+Licensed under the Apache License, Version 2.0 (the "License");
