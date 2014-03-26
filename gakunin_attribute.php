@@ -47,7 +47,7 @@
     }
 
     body#maintop {
-        background-image: url('https://www.gakunin.jp/docs/files/bg2.jpg');
+        // background-image: url('https://www.gakunin.jp/docs/files/bg2.jpg');
         background-repeat: repeat-x;
         background-position: 0px 110px;
     }
@@ -138,7 +138,7 @@
   </head>
   <body id="maintop">
 
-    <img id="logoA" src="https://www.gakunin.jp/docs/files/GakuNin_logo_yoko-small.png">
+    <!-- <img id="logoA" src="https://www.gakunin.jp/docs/files/GakuNin_logo_yoko-small.png"> -->
     <br>
 
     <div id="maincenter">
